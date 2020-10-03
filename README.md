@@ -1,4 +1,4 @@
-Deprecation Notice
+Deprecation Notice BY WINE
 ------------------
 
 As of February 2018, the Wine Staging project has been discontinued by the original
